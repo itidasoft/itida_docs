@@ -9,7 +9,9 @@ taxonomy:
 
 <p>Для выполнения данного требования потребуется создать необходимое количество групп ресурсов (Справочники &ndash; Классификаторы &ndash; Группы ресурсов) и указать в карточке групп ресурсов необходимые признаки предмета расчета и способа расчета.</p>
 <p>&nbsp;</p>
-<p>Пример заполнения карточек групп ресурсов представлен на следующих рисунках:</p>
+<div class="notices green">
+<p style="text-align: center;"><img src="danger.svg" alt="danger" />Пример заполнения карточек групп ресурсов представлен на следующих рисунках:</p>
+</div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (обычный товар)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (подакцизный товар)</em></p>
 <p>В карточке ТМЦ в поле &laquo;Группа товара&raquo; необходимо выбрать группу ресурсов, с заполненными признаками предмета и способа расчета.</p>
