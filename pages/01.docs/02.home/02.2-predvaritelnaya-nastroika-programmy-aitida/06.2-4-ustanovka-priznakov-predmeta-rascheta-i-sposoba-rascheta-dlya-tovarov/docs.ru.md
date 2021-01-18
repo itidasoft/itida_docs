@@ -1,6 +1,6 @@
 ---
 title: "2.4.\tУстановка признаков предмета расчета и способа расчета для товаров."
-media_order: danger.svg
+media_order: 'danger.svg,ГР_обычный_товар.png,ГР_подакцизный_товар.png'
 taxonomy:
     category:
         - docs
