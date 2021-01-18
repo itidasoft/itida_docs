@@ -1,5 +1,6 @@
 ---
 title: "2.4.\tУстановка признаков предмета расчета и способа расчета для товаров."
+media_order: 'danger.svg,ГР_подакцизный_товар.png'
 taxonomy:
     category:
         - docs
@@ -12,7 +13,7 @@ taxonomy:
 <div class="notices green">
 <p style="text-align: center;"><img src="danger.svg" alt="danger" />Пример заполнения карточек групп ресурсов представлен на следующих рисунках:</p>
 </div>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="%D0%93%D0%A0_%D0%BF%D0%BE%D0%B4%D0%B0%D0%BA%D1%86%D0%B8%D0%B7%D0%BD%D1%8B%D0%B9_%D1%82%D0%BE%D0%B2%D0%B0%D1%80.png" alt="обычный товар" width="340" height="308" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="%D0%93%D0%A0_%D0%BF%D0%BE%D0%B4%D0%B0%D0%BA%D1%86%D0%B8%D0%B7%D0%BD%D1%8B%D0%B9_%D1%82%D0%BE%D0%B2%D0%B0%D1%80.png" alt="подакцизный товар" width="335" height="305" /></p>
 <p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (обычный товар)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (подакцизный товар)</em></p>
 <p>В карточке ТМЦ в поле &laquo;Группа товара&raquo; необходимо выбрать группу ресурсов, с заполненными признаками предмета и способа расчета.</p>
 <p><em>(упрощенная карточка товара)</em></p>
