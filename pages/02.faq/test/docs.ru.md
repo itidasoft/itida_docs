@@ -22,6 +22,10 @@ title: тест
 тут спрятан текст
 [/details]
 
-!!!валраждлрвырывждар
+!!! валраждлрвырывждар
 
 [Podklyuchenie-i-nastroika-modulya-merkurii](/docs/mercury/podklyuchenie-i-nastroika-modulya-merkurii)
+
+[div]
+Ахтунг
+[/div]
