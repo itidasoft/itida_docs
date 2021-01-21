@@ -6,7 +6,7 @@ title: тест
 
 валдроаовырадывдло
 
-[color="red"]Абракадабра [/color]
+[color="red"]Абракадабра[/color]
 
 [columns count="4"]
 выааываыва
@@ -23,3 +23,5 @@ title: тест
 [/details]
 
 !!!валраждлрвырывждар
+
+[Podklyuchenie-i-nastroika-modulya-merkurii](/docs/mercury/podklyuchenie-i-nastroika-modulya-merkurii)
