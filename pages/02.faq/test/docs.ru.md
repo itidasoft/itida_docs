@@ -2,7 +2,7 @@
 title: тест
 ---
 
-пыволапывлдарождлываорэлд
+[Мой текст](/docs/mercury/podklyuchenie-i-nastroika-modulya-merkurii)
 
 валдроаовырадывдло
 
