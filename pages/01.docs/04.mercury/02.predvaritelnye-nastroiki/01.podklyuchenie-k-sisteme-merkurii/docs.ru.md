@@ -7,7 +7,9 @@ taxonomy:
         - mercury
 ---
 
+[left]
 Для регистрации в системе Меркурий и получения доступа необходимо предоставить в Территориальное Управление Россельхознадзора сведения об организации/ИП, сведения о местах осуществления деятельности (производство, переработка, хранение, реализация), сведения о пользователе организации/ИП, который будет работать в системе и, при необходимости, предоставлять доступ другим сотрудникам организации. Перечисленные сведения необходимо оформить в виде заявки по следующим шаблонам:
+[/left]
 
 1.  Для ИП - [http://vetrf.ru/vetrf-docs/ru/sample/sampleMercuryIP.doc](http://vetrf.ru/vetrf-docs/ru/sample/sampleMercuryIP.doc)
 2.  Для Юридических лиц - [https://view.officeapps.live.com/op/view.aspx?src=http://vetrf.ru/vetrf-docs/ru/sample/sampleMercuryUL.doc](https://view.officeapps.live.com/op/view.aspx?src=http://vetrf.ru/vetrf-docs/ru/sample/sampleMercuryUL.doc)
