@@ -1,5 +1,5 @@
 ---
-title: "2.3.\tОбновление профилей обмена с Frontol."
+title: 'Обновление профилей обмена с Frontol.'
 media_order: 'info.svg,warning.svg'
 taxonomy:
     category:
