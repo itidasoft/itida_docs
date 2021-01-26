@@ -1,5 +1,5 @@
 ---
-title: '1.3. Назначение'
+title: Назначение
 taxonomy:
     category:
         - docs
