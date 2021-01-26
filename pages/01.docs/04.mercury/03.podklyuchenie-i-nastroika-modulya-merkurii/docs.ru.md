@@ -6,7 +6,7 @@ taxonomy:
         - docs
     tag:
         - mercury
-media_order: 'img1.png,img2.png,img3.png'
+media_order: 'img1.png,img2.png,img3.png,img4.png'
 ---
 
 [justify]
@@ -29,4 +29,10 @@ media_order: 'img1.png,img2.png,img3.png'
 
 [center]
 ![](img3.png)
+[/center]
+
+Настройка модуля производится для каждой торговой точки, на которых предполагается обмен данными с ГИС Меркурий. В окне настройки можно указать следующие параметры:
+
+[center]
+![](img4.png)
 [/center]
