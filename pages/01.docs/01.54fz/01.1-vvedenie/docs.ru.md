@@ -1,5 +1,5 @@
 ---
-title: '1. Введение'
+title: Введение
 taxonomy:
     category:
         - docs
@@ -7,4 +7,5 @@ taxonomy:
         - 54fz
 visible: true
 ---
+
 
