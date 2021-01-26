@@ -1,5 +1,5 @@
 ---
-title: '1.2. Условные обозначения'
+title: 'Условные обозначения'
 taxonomy:
     category:
         - docs
