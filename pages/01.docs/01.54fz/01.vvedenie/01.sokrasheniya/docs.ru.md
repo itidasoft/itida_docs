@@ -1,5 +1,5 @@
 ---
-title: '1.1. Сокращения'
+title: Сокращения
 taxonomy:
     category:
         - docs
