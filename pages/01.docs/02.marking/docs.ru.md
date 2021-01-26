@@ -1,5 +1,5 @@
 ---
-title: Маркировка
+title: '2. Маркировка'
 taxonomy:
     category:
         - docs
@@ -7,7 +7,9 @@ taxonomy:
         - marking
 ---
 
-<h2 style="text-align: center;">&nbsp;</h2>
-<h2 style="text-align: center;">&nbsp;</h2>
-<h2 style="text-align: center;">Модуль Айтида: Маркировка.</h2>
-<p class="text-justify">&nbsp;</p>
+<div class="raw-html-embed">
+	<h2 style="text-align: center;">&nbsp;</h2>
+	<h2 style="text-align: center;">&nbsp;</h2>
+	<h2 style="text-align: center;">Модуль Айтида: Маркировка.</h2>
+	<p class="text-justify">&nbsp;</p>
+</div>
