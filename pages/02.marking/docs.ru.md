@@ -1,5 +1,5 @@
 ---
-title: '2. Маркировка'
+title: Маркировка
 taxonomy:
     category:
         - docs
