@@ -1,5 +1,5 @@
 ---
-title: '5. FAQ'
+title: FAQ
 taxonomy:
     category:
         - docs
