@@ -1,5 +1,5 @@
 ---
-title: '4. Меркурий'
+title: Меркурий
 taxonomy:
     category:
         - docs
