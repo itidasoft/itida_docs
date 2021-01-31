@@ -10,11 +10,11 @@ media_order: img3.png
 
 Для осуществления выгрузки в ПО Frontol всех необходимых признаков для работы по ФФД 1.05 необходимо выполнить требования следующих пунктов данной инструкции: 
 
-*   [Обновление программы Айтида](/docs/54fz/predvaritelnaya-nastroika-programmy-aitida/obnovlenie-programmy-aitida-i-bazy-dannykh)
-*   [Обновление профилей обмена](/docs/54fz/predvaritelnaya-nastroika-programmy-aitida/obnovlenie-profilei-obmena-s-frontol)
-*   [Установка признаков и способа предмета расчета для товаров](/docs/54fz/predvaritelnaya-nastroika-programmy-aitida/ustanovka-priznakov-predmeta-rascheta-i-sposoba-rascheta-dlya-tovarov)
-*   [Настройка соответствия налогов](/docs/54fz/predvaritelnaya-nastroika-programmy-aitida/nastroika-sootvetstviya-nalogov-v-programme-aitida-s-kodami-nalogov-v-kkm)
-*   [Заполнение данных по кассирам](/docs/54fz/predvaritelnaya-nastroika-programmy-aitida/zapolnenie-dannykh-po-kassiram)
+*   [Обновление программы Айтида](/54fz/predvaritelnaya-nastroika-programmy-aitida/obnovlenie-programmy-aitida-i-bazy-dannykh)
+*   [Обновление профилей обмена](/54fz/predvaritelnaya-nastroika-programmy-aitida/obnovlenie-profilei-obmena-s-frontol)
+*   [Установка признаков и способа предмета расчета для товаров](/54fz/predvaritelnaya-nastroika-programmy-aitida/ustanovka-priznakov-predmeta-rascheta-i-sposoba-rascheta-dlya-tovarov)
+*   [Настройка соответствия налогов](/54fz/predvaritelnaya-nastroika-programmy-aitida/nastroika-sootvetstviya-nalogov-v-programme-aitida-s-kodami-nalogov-v-kkm)
+*   [Заполнение данных по кассирам](/54fz/predvaritelnaya-nastroika-programmy-aitida/zapolnenie-dannykh-po-kassiram)
 
 После выполнения данных требований необходимо создать карточку торгового оборудования и заполнить в ней следующие основные реквизиты:
 
