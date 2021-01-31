@@ -1,5 +1,5 @@
 ---
-title: '3. ЕГАИС'
+title: ЕГАИС
 taxonomy:
     category:
         - docs
