@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: WIKI
 taxonomy:
     category:
         - docs
