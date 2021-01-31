@@ -1,5 +1,5 @@
 ---
-title: WIKI
+title: wiki
 taxonomy:
     category:
         - docs
