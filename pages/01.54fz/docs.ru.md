@@ -1,5 +1,5 @@
 ---
-title: '1. 54-ФЗ'
+title: 54-ФЗ
 taxonomy:
     category:
         - docs
