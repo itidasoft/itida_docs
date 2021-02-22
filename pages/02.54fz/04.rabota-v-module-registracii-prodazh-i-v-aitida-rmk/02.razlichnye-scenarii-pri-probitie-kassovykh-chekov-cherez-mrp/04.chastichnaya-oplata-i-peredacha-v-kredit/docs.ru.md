@@ -5,7 +5,7 @@ taxonomy:
         - docs
     tag:
         - 54fz
-media_order: image.png
+media_order: 'image.png,image.png'
 ---
 
 Для осуществления возможности отражения передачи в кредит в МРП необходимо произвести настройки видов оплат согласно п.4.1.
