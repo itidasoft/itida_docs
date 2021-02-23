@@ -5,6 +5,7 @@ taxonomy:
         - docs
     tag:
         - wiki
+published: true
 ---
 
 
