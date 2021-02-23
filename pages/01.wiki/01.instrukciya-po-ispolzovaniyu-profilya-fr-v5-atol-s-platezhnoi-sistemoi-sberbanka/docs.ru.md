@@ -8,9 +8,11 @@ taxonomy:
 published: true
 ---
 
-[h1]
-1. Установка и настройка платежной системы
-[/h1]
+[h3]
+[center]
+Установка и настройка платежной системы
+[/center]
+[/h3]
 
 1.  Скопировать на жесткий диск следующие файлы: SB_KERNEL.DLL, GATE.DLL, SBRF.DLL, LOADPARM.EXE, RRDK.R, R003.R, PARAMS.TLV
 2.  Зарегистрировать библиотеку SBRF.dll с помощью команды (regsvr32 SBRF.dll).
